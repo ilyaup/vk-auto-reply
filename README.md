@@ -10,7 +10,7 @@ value. VK API Documentation says that this value has to be "ok".
 * vkApi.messageSendMethodUri - URI of *messages.send* method for sending messages to users.
 * vkApi.randomId - id to prevent duplicating messages. Set to 0 to disable this. In case of using values other than
 zero behavior is undefined.
-## Running
+### Running
 Enter this command in the terminal in the root of the project:  
 
 Linux/macOs
